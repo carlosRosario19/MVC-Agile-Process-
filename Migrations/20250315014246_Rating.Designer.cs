@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using MvcMovieCarlos.Data;
 
@@ -11,9 +12,11 @@ using MvcMovieCarlos.Data;
 namespace MvcMovieCarlos.Migrations
 {
     [DbContext(typeof(MvcMovieCarlosContext))]
-    partial class MvcMovieCarlosContextModelSnapshot : ModelSnapshot
+    [Migration("20250315014246_Rating")]
+    partial class Rating
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
