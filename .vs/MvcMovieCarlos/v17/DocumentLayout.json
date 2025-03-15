@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\DevOps\\MvcMovieCarlos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1A93C6AB-1770-4EC4-8983-4DE58464AFFB}|MvcMovieCarlos.csproj|c:\\devops\\mvcmoviecarlos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A93C6AB-1770-4EC4-8983-4DE58464AFFB}|MvcMovieCarlos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A93C6AB-1770-4EC4-8983-4DE58464AFFB}|MvcMovieCarlos.csproj|c:\\devops\\mvcmoviecarlos\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A93C6AB-1770-4EC4-8983-4DE58464AFFB}|MvcMovieCarlos.csproj|solutionrelative:models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1A93C6AB-1770-4EC4-8983-4DE58464AFFB}|MvcMovieCarlos.csproj|c:\\devops\\mvcmoviecarlos\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1A93C6AB-1770-4EC4-8983-4DE58464AFFB}|MvcMovieCarlos.csproj|solutionrelative:views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A93C6AB-1770-4EC4-8983-4DE58464AFFB}|MvcMovieCarlos.csproj|c:\\devops\\mvcmoviecarlos\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{1A93C6AB-1770-4EC4-8983-4DE58464AFFB}|MvcMovieCarlos.csproj|C:\\DevOps\\MvcMovieCarlos\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1A93C6AB-1770-4EC4-8983-4DE58464AFFB}|MvcMovieCarlos.csproj|solutionrelative:views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -15,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{1A93C6AB-1770-4EC4-8983-4DE58464AFFB}|MvcMovieCarlos.csproj|solutionrelative:views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A93C6AB-1770-4EC4-8983-4DE58464AFFB}|MvcMovieCarlos.csproj|c:\\devops\\mvcmoviecarlos\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A93C6AB-1770-4EC4-8983-4DE58464AFFB}|MvcMovieCarlos.csproj|C:\\DevOps\\MvcMovieCarlos\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A93C6AB-1770-4EC4-8983-4DE58464AFFB}|MvcMovieCarlos.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -47,19 +55,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DevOps\\MvcMovieCarlos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\DevOps\\MvcMovieCarlos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvxMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:53:17.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\DevOps\\MvcMovieCarlos\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "Models\\SeedData.cs",
+              "ToolTip": "C:\\DevOps\\MvcMovieCarlos\\Models\\SeedData.cs",
+              "RelativeToolTip": "Models\\SeedData.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T00:50:04.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\DevOps\\MvcMovieCarlos\\Views\\Movies\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Movies\\Index.cshtml",
               "ToolTip": "C:\\DevOps\\MvcMovieCarlos\\Views\\Movies\\Index.cshtml",
               "RelativeToolTip": "Views\\Movies\\Index.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-15T00:42:14.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Welcome.cshtml",
               "DocumentMoniker": "C:\\DevOps\\MvcMovieCarlos\\Views\\HelloWorld\\Welcome.cshtml",
               "RelativeDocumentMoniker": "Views\\HelloWorld\\Welcome.cshtml",
@@ -67,12 +101,11 @@
               "RelativeToolTip": "Views\\HelloWorld\\Welcome.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-15T00:42:06.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T00:42:06.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\DevOps\\MvcMovieCarlos\\Views\\HelloWorld\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\HelloWorld\\Index.cshtml",
@@ -80,12 +113,11 @@
               "RelativeToolTip": "Views\\HelloWorld\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-15T00:23:15.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T00:23:15.284Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MoviesController.cs",
               "DocumentMoniker": "C:\\DevOps\\MvcMovieCarlos\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
@@ -93,8 +125,7 @@
               "RelativeToolTip": "Controllers\\MoviesController.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T00:40:17.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T00:40:17.519Z"
             }
           ]
         }
