@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\DevOps\\MvcMovieCarlos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A93C6AB-1770-4EC4-8983-4DE58464AFFB}|MvcMovieCarlos.csproj|c:\\devops\\mvcmoviecarlos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A93C6AB-1770-4EC4-8983-4DE58464AFFB}|MvcMovieCarlos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A93C6AB-1770-4EC4-8983-4DE58464AFFB}|MvcMovieCarlos.csproj|C:\\DevOps\\MvcMovieCarlos\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A93C6AB-1770-4EC4-8983-4DE58464AFFB}|MvcMovieCarlos.csproj|solutionrelative:controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A93C6AB-1770-4EC4-8983-4DE58464AFFB}|MvcMovieCarlos.csproj|c:\\devops\\mvcmoviecarlos\\controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A93C6AB-1770-4EC4-8983-4DE58464AFFB}|MvcMovieCarlos.csproj|solutionrelative:controllers\\helloworldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A93C6AB-1770-4EC4-8983-4DE58464AFFB}|MvcMovieCarlos.csproj|c:\\devops\\mvcmoviecarlos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A93C6AB-1770-4EC4-8983-4DE58464AFFB}|MvcMovieCarlos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\DevOps\\MvcMovieCarlos\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -51,13 +51,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HelloWorldController.cs",
               "DocumentMoniker": "C:\\DevOps\\MvcMovieCarlos\\Controllers\\HelloWorldController.cs",
               "RelativeDocumentMoniker": "Controllers\\HelloWorldController.cs",
               "ToolTip": "C:\\DevOps\\MvcMovieCarlos\\Controllers\\HelloWorldController.cs",
               "RelativeToolTip": "Controllers\\HelloWorldController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBQAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T23:48:53.855Z",
               "EditorCaption": ""
